@@ -19,7 +19,7 @@ Tyler makes text more readable in bright light and less blinding in low light.
 Between 22:00 and 08:00 the **Go to sleep** tile appears.
 
 During sleep mode:
-- A button is show to quickly toggle the flashlight/torch.
+- A button is shown to quickly toggle the flashlight/torch.
 - Screen brightness is set to the lowest, auto brightness is turned off.
 - Do not disturb is turned on.
 - Wifi is disabled.
@@ -56,7 +56,7 @@ All the example wallpapers are included.
 
 # Tasker
 
-<a target="_blank" href="https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_US&gl=US">Tasker> is used to preform the follow tasks:
+<a target="_blank" href="https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_US&gl=US">Tasker</a> is used to preform the follow tasks:
 
 **Bluetooth tile:**
 - Toggle Bluetooth.
