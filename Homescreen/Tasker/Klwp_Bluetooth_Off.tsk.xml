@@ -1,0 +1,17 @@
+<TaskerData sr="" dvi="1" tv="5.10.1">
+	<Task sr="task3">
+		<cdate>1603256637649</cdate>
+		<edate>1603256637649</edate>
+		<id>3</id>
+		<nme>Klwp Bluetooth Off</nme>
+		<pri>7</pri>
+		<Action sr="act0" ve="7">
+			<code>294</code>
+			<se>false</se>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>mw_device_bluetooth_disabled</nme>
+		</Img>
+	</Task>
+</TaskerData>

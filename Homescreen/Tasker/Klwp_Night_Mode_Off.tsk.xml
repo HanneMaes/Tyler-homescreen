@@ -1,0 +1,46 @@
+<TaskerData sr="" dvi="1" tv="5.10.1">
+	<Task sr="task5">
+		<cdate>1603257185546</cdate>
+		<edate>1603332415541</edate>
+		<id>5</id>
+		<nme>Klwp Night Mode Off</nme>
+		<pri>7</pri>
+		<Action sr="act0" ve="7">
+			<code>808</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>312</code>
+			<se>false</se>
+			<Int sr="arg0" val="2"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Bundle sr="arg6">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%dnd_allow_callers
+Allow Callers
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%dnd_allow_message_senders
+Allow SMS Senders
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%dnd_categories()
+Allow Categories
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;%dnd_mode
+Mode
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;%dnd_suppressed_effects()
+Suppressed Effects
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>425</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>mw_image_wb_sunny</nme>
+		</Img>
+	</Task>
+</TaskerData>
