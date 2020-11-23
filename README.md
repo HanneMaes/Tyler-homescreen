@@ -3,14 +3,14 @@
 # Download & Install
 
 1. Download & install the <a target="_blank" href="https://play.google.com/store/apps/details?id=org.kustom.wallpaper&hl=en_US&gl=US">KLWP</a> Android app.
-2. Download the latest version of Tyler <a target="_blank" href="https://github.com/HanneMaes/Tyler-homescreen/tree/main/Homescreen">.
+2. Download the latest version of <a target="_blank" href="https://github.com/HanneMaes/Tyler-homescreen/tree/main/Homescreen">Tyler</a>.
 3. Open KLWP and load the .klwp file.
 
 # Features
 
 ## Adaptive brightness
 
-Tyler makes the text more readable in bright light and less blinding in low light.
+Tyler makes text more readable in bright light and less blinding in low light.
 
 <img src="Mockups/GIFS/adaptive brightness.gif">
 
@@ -23,7 +23,7 @@ During sleep mode:
 - Screen brightness is set to the lowest, auto brightness is turned off.
 - Do not disturb is turned on.
 - Wifi is disabled.
-- The background is turned to black and white to easely see you are in sleep mode.
+- The background is turned to black and white to easily see you are in sleep mode.
 
 <img src="Mockups/GIFS/sleep mode.gif">
 
@@ -31,13 +31,14 @@ During sleep mode:
 
 - **The date, time and day of the week tile** opens the default calendar app.
 - **The internet tile** opens the default browser and Google Search app.
-- **The weather tile** displays todays temperate, wind speed and weather forcast icon.<br>
+- **The weather tile** displays today's temperate, wind speed and weather forecast icon.<br>
 Tap to open the default weather app.
 - **The alarm tile** shows the next alarm and how long unit that alarm.<br>
 Tap to open the default alarm app.
 <img src="Mockups/GIFS/alarm.gif">
+
 - **The camera tile** opens the camera or the default photo editing app.
-- **The bluetooth tile** shows connection status and opens default music player.
+- **The Bluetooth tile** shows connection status and opens default music player.
 <img src="Mockups/GIFS/bluetooth.gif">
 
 # Background
