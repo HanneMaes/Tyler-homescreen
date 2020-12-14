@@ -40,7 +40,7 @@
 	</Task>
 	<Task sr="task4">
 		<cdate>1603257069018</cdate>
-		<edate>1604871100569</edate>
+		<edate>1607928758107</edate>
 		<id>4</id>
 		<nme>Klwp Night Mode On</nme>
 		<pri>7</pri>
@@ -58,7 +58,7 @@
 		<Action sr="act2" ve="7">
 			<code>312</code>
 			<se>false</se>
-			<Int sr="arg0" val="4"/>
+			<Int sr="arg0" val="3"/>
 			<Int sr="arg1" val="2"/>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="3"/>
@@ -135,7 +135,7 @@ Suppressed Effects
 	</Task>
 	<Task sr="task6">
 		<cdate>1604786774349</cdate>
-		<edate>1604871407902</edate>
+		<edate>1604871596919</edate>
 		<id>6</id>
 		<nme>Klwp Flashlight Toggle</nme>
 		<pri>7</pri>
