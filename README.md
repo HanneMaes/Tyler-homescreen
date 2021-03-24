@@ -53,6 +53,7 @@ All the example wallpapers are included.
 <img src="Mockups/Screenshots/Wallpapers/green leaves.png">
 <img src="Mockups/Screenshots/Wallpapers/pink mountain.png">
 <img src="Mockups/Screenshots/Wallpapers/green yellow leaves.png">
+<img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png">
 
 # Tasker
 
