@@ -1,4 +1,5 @@
 <img src="Mockups/Screen recordings/intro anim.gif">
+<img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png">
 
 # Download & Install
 
@@ -41,11 +42,12 @@ Tap to open the default alarm app.
 - **The Bluetooth tile** shows connection status and opens default music player.
 <img src="Mockups/GIFS/bluetooth.gif">
 
-# Background
+# Backgrounds
 
 Tyler works with a variaty of backgrounds.<br>
 All the example wallpapers are included.
 
+<img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png">
 <img src="Mockups/Screenshots/Wallpapers/turquoise leaves.png">
 <img src="Mockups/Screenshots/Wallpapers/black sand.png">
 <img src="Mockups/Screenshots/Wallpapers/black leaf.png">
@@ -53,7 +55,6 @@ All the example wallpapers are included.
 <img src="Mockups/Screenshots/Wallpapers/green leaves.png">
 <img src="Mockups/Screenshots/Wallpapers/pink mountain.png">
 <img src="Mockups/Screenshots/Wallpapers/green yellow leaves.png">
-<img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png">
 
 # Tasker
 
