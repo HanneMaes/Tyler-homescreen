@@ -22,11 +22,9 @@ Tyler makes text more readable in bright light and less blinding in low light.
 Between 22:00 and 08:00 the **Go to sleep** tile appears.
 
 During sleep mode:
-- A button is shown to quickly toggle the flashlight/torch.
-- Screen brightness is set to the lowest, auto brightness is turned off.
-- Do not disturb is turned on.
-- Wifi is disabled.
-- The background is turned to black and white to easily see you are in sleep mode.
+- A button is shown to **quickly** toggle the **flashlight/torch**.
+- **Screen brightness** is set to **0**, **auto brightness is turned off**.
+- **Airplane mode** is turned on.
 
 <img src="Mockups/GIFS/sleep mode.gif">
 
@@ -51,12 +49,12 @@ All the example wallpapers are included.
 
 <img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png" width="540" height="1170">
 <img src="Mockups/Screenshots/Wallpapers/turquoise leaves.png" width="540" height="1170">
-<img src="Mockups/Screenshots/Wallpapers/black sand.png">
-<img src="Mockups/Screenshots/Wallpapers/black leaf.png">
-<img src="Mockups/Screenshots/Wallpapers/black stone.png">
-<img src="Mockups/Screenshots/Wallpapers/green leaves.png">
-<img src="Mockups/Screenshots/Wallpapers/pink mountain.png">
-<img src="Mockups/Screenshots/Wallpapers/green yellow leaves.png">
+<img src="Mockups/Screenshots/Wallpapers/black sand.png" width="540" height="1170">
+<img src="Mockups/Screenshots/Wallpapers/black leaf.png" width="540" height="1170">
+<img src="Mockups/Screenshots/Wallpapers/black stone.png" width="540" height="1170">
+<img src="Mockups/Screenshots/Wallpapers/green leaves.png" width="540" height="1170">
+<img src="Mockups/Screenshots/Wallpapers/pink mountain.png" width="540" height="1170">
+<img src="Mockups/Screenshots/Wallpapers/green yellow leaves.png" width="540" height="1170">
 
 # Automate
 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.llamalab.automate&hl=en_US&gl=US">Automate</a> is used to preform the follow tasks:
