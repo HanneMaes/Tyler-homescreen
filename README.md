@@ -56,9 +56,20 @@ All the example wallpapers are included.
 <img src="Mockups/Screenshots/Wallpapers/pink mountain.png">
 <img src="Mockups/Screenshots/Wallpapers/green yellow leaves.png">
 
-# Tasker
+# Automate
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.llamalab.automate&hl=en_US&gl=US">Automate</a> is used to preform the follow tasks:
 
-<a target="_blank" href="https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_US&gl=US">Tasker</a> is used to preform the follow tasks:
+**Bluetooth tile:**
+- Toggle Bluetooth.
+
+**Sleep mode:**
+- Toggle flashlight/torch.
+- Set brightness and turn off auto brightness.
+- Toggle airplane mode.
+
+# Tasker (legacy)
+
+<a target="_blank" href="https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_US&gl=US">Tasker</a> was used to preform the follow tasks:
 
 **Bluetooth tile:**
 - Toggle Bluetooth.
