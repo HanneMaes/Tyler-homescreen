@@ -49,8 +49,8 @@ Tap to open the default alarm app.
 Tyler works with a variaty of backgrounds.<br>
 All the example wallpapers are included.
 
-<img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png">
-<img src="Mockups/Screenshots/Wallpapers/turquoise leaves.png">
+<img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png" width="540" height="1170">
+<img src="Mockups/Screenshots/Wallpapers/turquoise leaves.png" width="540" height="1170">
 <img src="Mockups/Screenshots/Wallpapers/black sand.png">
 <img src="Mockups/Screenshots/Wallpapers/black leaf.png">
 <img src="Mockups/Screenshots/Wallpapers/black stone.png">
