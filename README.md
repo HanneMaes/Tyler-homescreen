@@ -1,11 +1,13 @@
 <img src="Mockups/Screen recordings/intro anim.gif">
-<img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png">
+<img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png" width="540" height="1170">
 
 # Download & Install
 
 1. Download & install the <a target="_blank" href="https://play.google.com/store/apps/details?id=org.kustom.wallpaper&hl=en_US&gl=US">KLWP</a> Android app.
 2. Download the latest version of <a target="_blank" href="https://github.com/HanneMaes/Tyler-homescreen/tree/main/Homescreen">Tyler</a>.
-3. Open KLWP and load the .klwp file.
+3. Download & install <a target="_blank" href="https://play.google.com/store/apps/details?id=com.llamalab.automate&hl=en_US&gl=US">Automate</a>
+4. Download & inport the Automate tasks.
+5. Open KLWP and load the .klwp file.
 
 # Features
 
