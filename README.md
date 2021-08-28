@@ -63,19 +63,12 @@ All the example wallpapers are included.
 - Toggle Bluetooth.
 
 **Sleep mode:**
-- Toggle flashlight/torch.
 - Set brightness and turn off auto brightness.
 - Toggle airplane mode.
 
-# Tasker (legacy)
+# Tasker
 
 <a target="_blank" href="https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_US&gl=US">Tasker</a> was used to preform the follow tasks:
 
-**Bluetooth tile:**
-- Toggle Bluetooth.
-
 **Sleep mode:**
 - Toggle flashlight/torch.
-- Set brightness and turn off auto brightness.
-- Toggle do not disturb.
-- Toggle Wifi.
