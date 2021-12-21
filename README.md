@@ -1,5 +1,5 @@
+<img src="Mockups/Screenshots/Wallpapers/cutefish.png" width="540" height="1170">
 <img src="Mockups/Screen recordings/intro anim.gif">
-<img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png" width="540" height="1170">
 
 # Download & Install
 
@@ -47,6 +47,7 @@ Tap to open the default alarm app.
 Tyler works with a variaty of backgrounds.<br>
 All the example wallpapers are included.
 
+<img src="Mockups/Screenshots/Wallpapers/cutefish.png" width="540" height="1170">
 <img src="Mockups/Screenshots/Wallpapers/liquid rainbow.png" width="540" height="1170">
 <img src="Mockups/Screenshots/Wallpapers/turquoise leaves.png" width="540" height="1170">
 <img src="Mockups/Screenshots/Wallpapers/black sand.png" width="540" height="1170">
